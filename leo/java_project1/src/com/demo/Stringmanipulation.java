@@ -14,7 +14,7 @@ public class Stringmanipulation {
 		System.out.println(name.indexOf(105,2));
 		System.out.println(name.lastIndexOf(105,5));
 		System.out.println(name.substring(3,8));
-		System.out.println("hello world");
+		System.out.println("hello world!");
 		char[] a=name.toCharArray();
 				System.out.println(a);
 		System.out.println(name.split("i"));
